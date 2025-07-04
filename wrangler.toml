@@ -1,0 +1,8 @@
+# wrangler.toml
+name = "publicxxxx"
+compatibility_date = "2024-06-18"
+main = "index.html"
+
+[pages]
+# Deploys from the root directory
+output_dir = "."
