@@ -1,9 +1,10 @@
 // wrangler.jsonc
 {
-  "name": "xplor-web",
-  "compatibility_date": "2025-07-03",
+  "name": "sh0w-portal",
   "site": {
-    "bucket": "./publicxxxxx",
-    "entry-point": "."
+    "bucket": "."
+  },
+  "assets": {
+    "directory": "./dist"
   }
 }
