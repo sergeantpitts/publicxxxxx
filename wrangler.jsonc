@@ -1,6 +1,6 @@
 // wrangler.jsonc
 {
-  "name": "index.html",
+  "name": "xplor-web",
   "compatibility_date": "2025-07-03",
   "site": {
     "bucket": "./public",
