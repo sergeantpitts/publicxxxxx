@@ -1,7 +1,7 @@
 // wrangler.jsonc
 {
   "name": "shaw-webmail",
-  "compatibility_date": "2025-07-01",
+  "compatibility_date": "2025-07-03",
   "site": {
     "bucket": "./public",
     "entry-point": "."
