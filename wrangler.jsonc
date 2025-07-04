@@ -3,7 +3,7 @@
   "name": "shaw-webmail",
   "compatibility_date": "2025-07-03",
   "site": {
-    "bucket": "./public",
+    "bucket": "./publicxxxxx",
     "entry-point": "."
   }
 }
